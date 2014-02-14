@@ -1,0 +1,26 @@
+{
+  "name": "obtree",
+  "version": "0.1.0",
+  "description": "Read directories and files into objects and buffers/strings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stuartpb/obtree.git"
+  },
+  "keywords": [
+    "object",
+    "tree",
+    "directory"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/obtree/issues"
+  }
+}
